@@ -1,12 +1,4 @@
-# calculator
-## SECTION 1 INTRODUCTION 
+# CALCULATOR 
+#                                                      SECTION 1 : INTRODUCTION
+##                            INTRODUCING ALL NEW CALCULATOR APP THAT HELPS YOU ANYWHERE AND ANYTIME BASED ON FLUENT UI .
 
-EXPERIENCE THE ALL NEW CALCULATOR APP WITH FLUENT UI . 
-
-## ____END___
-
-## SECTION 2 REFERENCE LINKS 
-
-[CODESPACE1205.GITHUB.IO](https://codespace1205.github.io/)
-
-## ____END____
